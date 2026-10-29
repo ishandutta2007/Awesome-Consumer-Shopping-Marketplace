@@ -32,79 +32,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global retail e-commerce and consumer shopping market is estimated at **$6.88T–$7.4T** (with overall digital commerce exceeding **$25T+**). The sector exhibits a **barbell concentration dynamic**: core general merchandise discovery and checkout are heavily concentrated ("winner-take-all/winner-take-most" led by titans like Alphabet/Google, Amazon, and Shopify), while ancillary shopping discovery, creator-led social commerce (LTK), and affiliate/receipt rewards (Rakuten, Fetch) remain moderately fragmented niches driven by specialized loyalty programs and creator networks.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Shop App](https://shop.app/)** (Shopify)
-
-  **Consumer shopping app** with Shop Pay, order tracking, and product discovery across Shopify merchants. **Pricing**: Free for consumers; merchants pay standard Shopify fees. **Free tier**: Yes, for consumers. **Best for**: consumers wanting a unified shopping and order-tracking experience across Shopify stores.
-
-
-
-- **[Klarna App](https://www.klarna.com/)**
-
-  **Shopping app and BNPL platform** with product discovery, price comparison, and installment checkout. **Pricing**: Free for consumers; merchant fees apply. **Free tier**: Yes. **Best for**: shoppers wanting BNPL options with integrated product browsing.
-
-
-
-- **[LTK](https://www.shopltk.com/)** (formerly LikeToKnowIt)
-
-  **Creator-driven shopping platform** where influencers curate and link products. **Pricing**: Free for consumers; affiliate commissions for creators. **Free tier**: Yes. **Best for**: shoppers wanting curated product recommendations from trusted creators.
-
-
-
-- **[Amazon Shopping](https://www.amazon.com/)**
-
-  **World's largest online marketplace** with product search, reviews, and Prime delivery. **Pricing**: Free for consumers; Prime subscription optional. **Free tier**: Yes. **Best for**: consumers wanting the broadest product selection and fast delivery.
-
-
-
-- **[Google Shopping](https://shopping.google.com/)**
-
-  **Product search and price comparison** across retailers. **Pricing**: Free for consumers; retailers pay for promoted listings. **Free tier**: Yes. **Best for**: shoppers wanting to compare prices across multiple retailers before purchasing.
-
-
-
-- **[Shopkick](https://www.shopkick.com/)**
-
-  **Rewards app** earning points for walking into stores, scanning products, and purchases. **Pricing**: Free for consumers. **Free tier**: Yes. **Best for**: shoppers wanting to earn rewards for in-store and online activity.
-
-
-
-- **[Lyst](https://www.lyst.com/)**
-
-  **Fashion search and discovery platform** aggregating products from luxury and high-street brands. **Pricing**: Free for consumers; affiliate commissions from retailers. **Free tier**: Yes. **Best for**: fashion shoppers wanting a single search across multiple retailers.
-
-
-
-- **[Rakuten](https://www.rakuten.com/)**
-
-  **Cashback and rewards platform** paying users for shopping through affiliate links. **Pricing**: Free for consumers; retailers pay commissions. **Free tier**: Yes. **Best for**: shoppers wanting cashback on everyday purchases across thousands of retailers.
-
-
-
-- **[Fetch Rewards](https://fetchrewards.com/)**
-
-  **Receipt-scanning rewards app** earning points for any grocery or retail purchase. **Pricing**: Free for consumers. **Free tier**: Yes. **Best for**: shoppers wanting rewards without changing where they shop.
-
-
-
-- **[Honey](https://www.joinhoney.com/)** (PayPal)
-
-  **Browser extension** that automatically finds and applies coupon codes at checkout, plus cashback offers. **Pricing**: Free for consumers; affiliate commissions from retailers. **Free tier**: Yes. **Best for**: shoppers wanting automatic coupon application without manual searching.
-
-
+| Platform | Valuation / Revenue | Pricing | Free Tier Limits | Description & Best For |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Google Shopping](https://shopping.google.com/)** | ~$3.8T Market Cap (Alphabet) / $350B+ Revenue | Free for shoppers; Paid ads via Google Ads from $0.01/click (Free merchant listings via Merchant Center) | Free forever for shoppers (unlimited search & comparison); Free organic Merchant Center product listings | Product search and comparison engine aggregating millions of merchants. **Best for**: Shoppers comparing prices across web retailers. |
+| **[Amazon Shopping](https://www.amazon.com/)** | ~$2.7T Market Cap / $638B+ Revenue | Free for shoppers; Prime membership starts at $14.99/mo (or $139/yr); Seller accounts from $0.99/item sold or $39.99/mo professional | Free forever for shoppers with standard shipping minimums; Optional 30-day free trial for Amazon Prime | Dominant global marketplace ecosystem with consumer checkout and fulfillment. **Best for**: Shoppers seeking vast catalog selection and fast delivery. |
+| **[Shop App](https://shop.app/)** (Shopify) | ~$215B Market Cap / $8.9B+ Revenue | Free for shoppers; Merchants pay Shopify plans starting at $39/mo (Basic) | Free forever for consumers (unlimited order tracking, discovery, and Shop Pay rewards); Merchant free trial is 3 days free then $1/mo for 1st month | Integrated consumer shopping app and tracking hub across Shopify merchants. **Best for**: Unified tracking and checkout across independent brands. |
+| **[Honey](https://www.joinhoney.com/)** (PayPal) | $4B Acquisition by PayPal (~$43B Market Cap / $33B Revenue) | Free for consumers; Monetized via merchant affiliate commissions | Free forever with no coupon or cashback lookup limits across all supported browser stores | Automated coupon-finding browser extension and cashback points system. **Best for**: Automated discount code application at checkout. |
+| **[Klarna App](https://www.klarna.com/)** | ~$10B Valuation / $2.8B+ Revenue | Free for shoppers (0% APR on pay-in-4 plans; up to 33.99% APR on financing); Merchants pay transaction fees from 3.29% + $0.30 | Free forever for standard shopping and interest-free 4-installment payments | Buy Now, Pay Later (BNPL) shopping assistant with price alerts and flexible payments. **Best for**: Shoppers wanting split payments with price tracking. |
+| **[Rakuten](https://www.rakuten.com/)** | ~$9.5B Market Cap (Rakuten Group) / ~$14B Revenue | Free for consumers; Retailers pay affiliate sales commissions | Free forever with quarterly cashback payouts (minimum $5.01 accrued balance required to trigger payout) | Affiliate cashback and rewards platform paying cash rebates on retailer purchases. **Best for**: Earning cash rebates on everyday shopping. |
+| **[Fetch Rewards](https://fetchrewards.com/)** | ~$2.5B Valuation / ~$600M Revenue | Free for shoppers; Brands pay campaign and consumer engagement partnership fees | Free forever; Earn points on any physical or digital receipt (limit of 35 scanned receipts per rolling 7-day window) | Receipt-scanning gamified loyalty and rewards application. **Best for**: Earning gift cards simply by scanning everyday shopping receipts. |
+| **[LTK](https://www.shopltk.com/)** | ~$2.0B Valuation / ~$5B+ GMV Facilitated | Free for shoppers; Creators apply for free (monetized via brand commission splits); Retailers pay commission contracts | Free forever for consumers to follow influencers and discover linked products | Creator-driven social shopping platform connecting shoppers with influencer curations. **Best for**: Discovering curated outfits and lifestyle products from creators. |
+| **[Shopkick](https://www.shopkick.com/)** | $200M Acquisition (SK Planet / Trax) / ~$50M+ Revenue | Free for consumers; Retailers and brands pay in-store engagement fees | Free forever; Earn "kicks" points for walking into partner stores, scanning barcodes, and submitting purchase receipts | Omnichannel loyalty app rewarding consumers for physical store visits and digital browsing. **Best for**: Earning gift cards for everyday in-store and online micro-actions. |
+| **[Lyst](https://www.lyst.com/)** | $154M Acquisition (by Zozo) / ~$64M Revenue | Free for shoppers; Fashion retailers pay affiliate commissions per sale | Free forever with unlimited fashion search, designer filtering, and price alerts | Luxury and high-street fashion aggregator spanning thousands of global brands. **Best for**: Comprehensive fashion item discovery across disparate luxury stores. |
 
 ## Open-Source GitHub Projects
 
